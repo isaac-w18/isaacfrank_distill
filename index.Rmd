@@ -1,13 +1,23 @@
 ---
 title: "Anxiety Project"
 description: |
-  Welcome to my final project. I hope you enjoy it!
+  Welcome to my final project.
 site: distill::distill_website
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
-
 ```
+
+## Importance
+The prevalence of anxiety disorders across the world varies from 2.5 to 7 percent by country. Globally an estimated 284 million people experienced an anxiety disorder in 2017, making it the most prevalent mental health or neurodevelopmental disorder.^[Hannah Ritchie and Max Roser (2018) - "Mental Health". Published online at OurWorldInData.org. Retrieved from: 'https://ourworldindata.org/mental-health']
+
+## Goals
+The goal of this project initially was to examine treatment options for anxiety disorders,
+such as Post-Traumatic Stress Disorder, Obsessive-Compulsive Disorder, Generalized Anxiety
+Disorder, and more. However, the lack of available research data was quite frustrating, so
+the goal of my project became to raise awareness to the under-rated value of anxiety 
+research on healthcare costs and mental health for those with disorders.
+
 
 

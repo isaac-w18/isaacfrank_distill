@@ -1,7 +1,7 @@
 ---
-title: "About The Creator"
+title: "About the Creator"
 description: |
-  "The purpose behind the site creation"
+  Conclusion and about Isaac Frank
 site: distill::distill_website
 ---
 
@@ -9,8 +9,25 @@ site: distill::distill_website
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+## Conclusion
+The increased amount of money being spent on pharmaceuticals does not
+seem to be helping the anxiety crisis, and something different must be
+done to discover better ways of helping people overcome and adapt.
+The Bergen 4 Day Treatment, for example, appears to be almost twofold 
+more effective than standard ERP, but is not the standard itself yet
+because of the lack of information, research, and data.
 
-## Purpose:
 
-## About the creater:
+
+## About the Creator
+My name is Isaac Frank, and I am a rising senior at Dublin Coffman High
+School in Dublin, OH. I run cross country, play tennis, play cello, and
+have been fascinated by science and health for longer than I can remember. 
+My goal is to help others and improve health through research and data,
+and I thoroughly enjoyed putting together this data project while 
+learning the R programming language.
+
+Thank you for reading!
+
+![](IMG_4338.jpg){width=50}
 

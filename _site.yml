@@ -9,6 +9,8 @@ navbar:
       href: index.html
     - text: "Anxiety Data"
       href: anixety_data.html
+    - text: "Treatment Research"
+      href: Treatment_Research.html
     - text: "About"
       href: about.html
     - icon: fa fa-github

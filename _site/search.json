@@ -2,33 +2,35 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "About The Creator",
-      "description": "\"The purpose behind the site creation\"\n",
+      "title": "About the Creator",
+      "description": "Conclusion and about Isaac Frank\n",
       "author": [],
-      "contents": "\nPurpose:\nAbout the creater:\n\n\n\n",
-      "last_modified": "2021-06-20T23:15:43-04:00"
+      "contents": "\nConclusion\nThe increased amount of money being spent on pharmaceuticals does not seem to be helping the anxiety crisis, and something different must be done to discover better ways of helping people overcome and adapt. The Bergen 4 Day Treatment, for example, appears to be almost twofold more effective than standard ERP, but is not the standard itself yet because of the lack of information, research, and data.\nAbout the Creator\nMy name is Isaac Frank, and I am a rising senior at Dublin Coffman High School in Dublin, OH. I run cross country, play tennis, play cello, and have been fascinated by science and health for longer than I can remember. My goal is to help others and improve health through research and data, and I thoroughly enjoyed putting together this data project while learning the R programming language.\nThank you for reading!\n\n\n\n\n",
+      "last_modified": "2021-06-21T02:47:26-04:00"
     },
     {
       "path": "anixety_data.html",
       "title": "Anxiety Data",
       "description": "Looking at a possible relationship between pharmaceutical spending and prevalence of anxiety disorders\n",
-      "author": [
-        {
-          "name": "Isaac Frank",
-          "url": {}
-        }
-      ],
-      "date": "06-20-2021",
-      "contents": "\n\n\n\n",
-      "last_modified": "2021-06-20T23:15:43-04:00"
+      "author": [],
+      "contents": "\nAnxiety disorder rates have been increasing among Americans of many age ranges for the past twenty years1, while an increased amount of money is continuing to be spent on the same treatments as in the past.2\n3\n\n\n\n\n\n\n\n\n\n    Pearson's product-moment correlation\n\ndata:  combined_data$pc_anxiety and combined_data$PC_GDP\nt = -3.1694, df = 166, p-value = 0.001819\nalternative hypothesis: true correlation is not equal to 0\n95 percent confidence interval:\n -0.37665693 -0.09074187\nsample estimates:\n       cor \n-0.2388698 \n\nAt p = 0.05, this test is statistically significant, meaning that anxiety prevalence is negatively correlated with percent of GDP across the 28 countries with available data. While this association certainly does not imply any causation, it is clear that increased spending on available pharmaceuticals does not correlate with better solutions to anxiety.\n\nHui Zheng, Paola Echave, Are Recent Cohorts Getting Worse? Trends in U.S. Adult Physiological Status, Mental Health, and Health Behaviors across a Century of Birth Cohorts, American Journal of Epidemiology, 2021;, kwab076, https://doi.org/10.1093/aje/kwab076↩︎\nSource: Health expenditure and financing: Health expenditure indicators↩︎\nSource: Health expenditure and financing: Health expenditure indicators↩︎\n",
+      "last_modified": "2021-06-21T02:47:30-04:00"
     },
     {
       "path": "index.html",
       "title": "Anxiety Project",
-      "description": "Welcome to my final project. I hope you enjoy it!\n",
+      "description": "Welcome to my final project.\n",
       "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2021-06-20T23:15:44-04:00"
+      "contents": "\nImportance\nThe prevalence of anxiety disorders across the world varies from 2.5 to 7 percent by country. Globally an estimated 284 million people experienced an anxiety disorder in 2017, making it the most prevalent mental health or neurodevelopmental disorder.1\nGoals\nThe goal of this project initially was to examine treatment options for anxiety disorders, such as Post-Traumatic Stress Disorder, Obsessive-Compulsive Disorder, Generalized Anxiety Disorder, and more. However, the lack of available research data was quite frustrating, so the goal of my project became to raise awareness to the under-rated value of anxiety research on healthcare costs and mental health for those with disorders.\n\nHannah Ritchie and Max Roser (2018) - “Mental Health”. Published online at OurWorldInData.org. Retrieved from: ‘https://ourworldindata.org/mental-health’↩︎\n",
+      "last_modified": "2021-06-21T02:47:30-04:00"
+    },
+    {
+      "path": "Treatment_Research.html",
+      "title": "Treatment Research",
+      "description": "Exploring the value of research through two OCD treatment options\n",
+      "author": [],
+      "contents": "\nObsessive-Compulsive Disorder (OCD) is one of the top ten most debilitating disorders, yet is rarely treated with the right medication.1\nOCD procedure front-line procedure is to prescribe Selective-Serotonin Reuptake Inhibitors (SSRIs), and provide the patient with the option for Cognitive Behavioral Therapy (CBT). One of the most common plans for CBT is to use Exposure-Response Prevention (ERP) over several months to train the patient to adapt to the disorder. This has proven to be semi-effective, but is quite expensive.2\nHowever, new studies have shown the effectiveness of the Bergen 4 Day Treatment, which instead of months of costly CBT, compresses the ERP treatment into a 4-day intensive in-patient program that is not only more affordable, but also much more convenient and therefore less likely to be turned down by patients.\n\n\n\n\n\n\nThe Bergen 4 Day Treatment (B4DT) had a much higher remission rate, and much higher recovery rate than ordinary ERP. Although ordinary ERP had a lower chance of relapse, the difference is negligible when comparing to the more effective results from the B4DT. Additionally, because of how short the B4DT is, much fewer patients declined or dropped treatment when compared to standard ERP procedure.\n\nSource: The World Health Organization: The Global Burden of Disease↩︎\nRichards DA, Ekers D, McMillan D, Taylor RS, Byford S, Warren FC, Barrett B, Farrand PA, Gilbody S, Kuyken W, O’Mahen H, Watkins ER, Wright KA, Hollon SD, Reed N, Rhodes S, Fletcher E, Finning K. Cost and Outcome of Behavioural Activation versus Cognitive Behavioural Therapy for Depression (COBRA): a randomised, controlled, non-inferiority trial. Lancet. 2016 Aug 27;388(10047):871-80. doi: 10.1016/S0140-6736(16)31140-0. Epub 2016 Jul 23. PMID: 27461440; PMCID: PMC5007415.↩︎\n",
+      "last_modified": "2021-06-21T02:47:31-04:00"
     }
   ],
   "collections": []
