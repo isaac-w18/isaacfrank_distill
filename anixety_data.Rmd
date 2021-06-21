@@ -1,0 +1,12 @@
+---
+title: "Anxiety Data"
+description: |
+  Looking at a possible relationship between pharmaceutical spending and prevalence of anxiety disorders
+site: distill::distill_website
+author:
+  - name: Isaac Frank
+date: 06-20-2021
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)

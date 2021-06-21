@@ -1,0 +1,16 @@
+---
+title: "About The Creator"
+description: |
+  "The purpose behind the site creation"
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+## Purpose:
+
+## About the creater:
+

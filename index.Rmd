@@ -1,0 +1,13 @@
+---
+title: "Anxiety Project"
+description: |
+  Welcome to my final project. I hope you enjoy it!
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+```
+
+

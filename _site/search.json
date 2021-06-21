@@ -1,0 +1,35 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About The Creator",
+      "description": "\"The purpose behind the site creation\"\n",
+      "author": [],
+      "contents": "\nPurpose:\nAbout the creater:\n\n\n\n",
+      "last_modified": "2021-06-20T23:15:43-04:00"
+    },
+    {
+      "path": "anixety_data.html",
+      "title": "Anxiety Data",
+      "description": "Looking at a possible relationship between pharmaceutical spending and prevalence of anxiety disorders\n",
+      "author": [
+        {
+          "name": "Isaac Frank",
+          "url": {}
+        }
+      ],
+      "date": "06-20-2021",
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-06-20T23:15:43-04:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Anxiety Project",
+      "description": "Welcome to my final project. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-06-20T23:15:44-04:00"
+    }
+  ],
+  "collections": []
+}
